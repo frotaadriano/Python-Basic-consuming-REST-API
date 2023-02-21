@@ -1,6 +1,4 @@
-# ==================
 # EN-US
-# ==================
 
 # GitHub repository information display
 
@@ -38,14 +36,13 @@ Language: JavaScript
 URL: https://github.com/frotaadriano/nome-do-repositorio-2
 Description: Another sample repository
 
+![Example](https://raw.githubusercontent.com/frotaadriano/Python-Basic-consuming-REST-API/main/Executing.jpg)
 
 ## Contributing
 
 Please feel free to submit suggestions, bug reports, and feature requests as issues in this repository.
 
-# ==================
 # PT-BR
-# ==================
 
 # Exibição de informações de repositórios do GitHub
 
@@ -71,7 +68,6 @@ pip install requests
 4. Execute o script Python:
 python repositorio.py
 
-
 ## Resultado esperado
 
 O script deve imprimir uma lista de repositórios do usuário "frotaadriano" do GitHub, juntamente com informações adicionais, como a linguagem, a URL do HTML e a descrição:
@@ -83,6 +79,7 @@ Language: JavaScript
 URL: https://github.com/frotaadriano/nome-do-repositorio-2
 Description: Outro repositório de exemplo
 
+![Exemplo](https://raw.githubusercontent.com/frotaadriano/Python-Basic-consuming-REST-API/main/Executing.jpg)
 
 ## Contribuindo
 
